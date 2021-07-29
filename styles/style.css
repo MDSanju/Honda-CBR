@@ -23,8 +23,20 @@
 }
 .bikes{
     margin-top: 65px;
-    margin-bottom: 35px;
+    margin-bottom: 135px;
 }
 .feature-bike-gray img{
     filter: grayscale(100%);
+}
+.custom-orange-color{
+    color: #E76F51;
+}
+.frequently-ask{
+    margin-top: 125px;
+}
+.faq-custom{
+    margin-top: 65px;
+}
+.custom-toggle-btn{
+    border: 1px solid rgb(184, 182, 182);
 }
