@@ -1,12 +1,15 @@
 /* custom css styles */
-.bg-color{
+
+.bg-color {
     background-color: #264653;
     min-height: 660px;
 }
-.custom-text-color{
+
+.custom-text-color {
     color: #E0E0E0;
 }
-.btn-custom-style{
+
+.btn-custom-style {
     background: #E76F51;
     color: white;
     font-weight: 600;
@@ -15,35 +18,50 @@
     border-radius: 5px;
     transition: 0.2s;
 }
-.btn-custom-style:hover{
+
+.btn-custom-style:hover {
     background-color: #fa542a;
 }
-.collection-color{
+
+.collection-color {
     color: #E76F51;
 }
-.bikes{
+
+.bikes {
     margin-top: 65px;
     margin-bottom: 135px;
 }
-.feature-bike-gray img{
+
+.g-5,
+.gx-5 {
+    --bs-gutter-x: 0;
+}
+
+.feature-bike-gray img {
     filter: grayscale(100%);
 }
-.custom-orange-color{
+
+.custom-orange-color {
     color: #E76F51;
 }
-.frequently-ask{
+
+.frequently-ask {
     margin-top: 125px;
 }
-.faq-custom{
+
+.faq-custom {
     margin-top: 65px;
 }
-.custom-toggle-btn{
+
+.custom-toggle-btn {
     border: 1px solid rgb(184, 182, 182);
 }
-.order-now{
+
+.order-now {
     margin-top: 115px;
     margin-bottom: 100px;
 }
-.copyright-footer{
+
+.copyright-footer {
     margin-top: 115px;
 }
